@@ -38,9 +38,6 @@ This webserver will provide the user the ability to encode messages with a shift
 ❏ The endpoint should return a 200 if successful, 500 if unsuccessful.
 ❏ The endpoint should return a json object with a single key EncodedMessage. The value returned should be the string you successfully encoded. If unsuccessful, it should return an empty string.
 
-#  Question 1 - SearchOn:
-
-#  Question 1 - DevelopedOn:
 
 # Need more time on the JSON structure, encoding, shift values and return values.
 
@@ -65,9 +62,20 @@ Web Component Specifications
 ○ Make sure there is at least 8px of vertical margin between each field. (and Submit button)
 ○ Give the input fields rounded corners of at least 2px.
 
-#  Question 2 - SearchOn:
-
-#  Question 2 - DevelopedOn:
 
 #  Notes:  Need more time to complete all the Requirements.
+
+C:\00_LightFeather.io_Repository\LightFeather_Repository.io>git push origin master
+Username for 'https://github.com/GitHubShark39/LightFeather_Repository.io.git': GitHubShark39
+Password for 'https://GitHubShark39@github.com/GitHubShark39/LightFeather_Repository.io.git':
+Counting objects: 20, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (20/20), done.
+Writing objects: 100% (20/20), 139.06 KiB | 0 bytes/s, done.
+Total 20 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), done.
+To https://github.com/GitHubShark39/LightFeather_Repository.io.git
+   0ef1d65..3d8b071  master -> master
+
+C:\00_LightFeather.io_Repository\LightFeather_Repository.io>
 
